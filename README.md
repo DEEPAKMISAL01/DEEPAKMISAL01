@@ -16,13 +16,6 @@ A passionate **DevOps & AWS Cloud Enthusiast** from India 🌍
 
 ---
 
-## 📂 Featured Projects:
-- 🔗 [AWS Serverless Contact Form](https://github.com/DEEPAKMISAL01/serverless-contact-form) – Built with Lambda, SES, API Gateway
-- 🔗 [DevOps CI/CD Pipeline](https://github.com/DEEPAKMISAL01/devops-pipeline) – Jenkins, Docker, Kubernetes & Helm
-- 🔗 [URL Shortener (Serverless)](https://github.com/DEEPAKMISAL01/url-shortener-serverless) – Built using API Gateway, Lambda, DynamoDB
-
----
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DEEPAKMISAL01&theme=tokyonight&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DEEPAKMISAL01&theme=tokyonight)
