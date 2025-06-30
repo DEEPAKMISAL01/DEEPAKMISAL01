@@ -29,7 +29,7 @@ A passionate **DevOps & AWS Cloud Enthusiast** from India 🌍
 ---
 
 ## 📫 Connect with Me:
-- 📧 Email: [deepakmisal.dev@gmail.com](mailto:deepakmisal.dev@gmail.com)
+- 📧 Email: [deepakmisal.dev@gmail.com](mailto:misaldeepak2004@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/deepakmisal)
 
 ---
