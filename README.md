@@ -2,9 +2,7 @@
 <h3 align="center">DevOps Engineer | AWS Cloud Practitioner | Automation Enthusiast</h3>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=DEEPAKMISAL01&icon=0&color=6">
-    <img src="https://visitcount.itsvg.in/api?id=DEEPAKMISAL01&icon=0&color=6" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DEEPAKMISAL01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
