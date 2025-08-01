@@ -1,43 +1,60 @@
-# Hi 👋, I'm Deepak
+# 👋 Hello, I'm Deepak Misal
 
-A passionate **DevOps & AWS Cloud Enthusiast** from India 🌍  
-[![](https://visitcount.itsvg.in/api?id=DEEPAKMISAL01&icon=0&color=6)](https://visitcount.itsvg.in)
+**DevOps Engineer | AWS Cloud Practitioner | Automation Enthusiast**  
+Based in India | Actively exploring scalable cloud-native solutions
 
----
-
-## 🛠️ Tech Stack & Tools:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+[![Profile Views](https://visitcount.itsvg.in/api?id=DEEPAKMISAL01&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DEEPAKMISAL01&theme=tokyonight&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DEEPAKMISAL01&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAKMISAL01&layout=compact&theme=tokyonight)
+## 🔧 Technical Skills
+
+**Cloud & Infrastructure:**  
+AWS, EC2, S3, IAM, VPC, CloudFormation, Route 53, Lambda  
+
+**DevOps Tools & Platforms:**  
+Docker · Kubernetes · Jenkins · Terraform · Ansible · Git · GitHub · GitHub Actions  
+
+**Scripting & OS:**  
+Linux (Ubuntu, Amazon Linux) · Bash · YAML · Groovy
 
 ---
 
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=DEEPAKMISAL01&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/DEEPAKMISAL01)
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAKMISAL01&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAKMISAL01&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAKMISAL01&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-## 📫 Connect with Me:
-- 📧 Email: [deepakmisal.dev@gmail.com](mailto:misaldeepak2004@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/deepakmisal)
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DEEPAKMISAL01&theme=darkhub&no-bg=true&no-frame=true&margin-w=4" />
+</p>
 
 ---
 
-## 💡 About Me:
-- 🚀 I'm currently working on **AWS & DevOps** projects  
-- ☸️ Learning **Kubernetes** and **CI/CD pipelines**  
-- 🤝 Open to collaborate on **Cloud-native DevOps** projects  
-- 📂 Explore my DevOps journey: [GitHub Projects](https://github.com/DEEPAKMISAL01?tab=repositories)
+## 📬 Contact
+
+- 📧 Email: [deepakmisal.dev@gmail.com](mailto:deepakmisal.dev@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/deepakmisal](https://linkedin.com/in/deepakmisal)
 
 ---
+
+## 💼 Current Focus
+
+- Building cloud-native applications using **AWS services and Infrastructure as Code**  
+- Designing and managing **CI/CD pipelines** for production-ready deployments  
+- Exploring container orchestration with **Kubernetes**  
+- Contributing to and collaborating on open-source **DevOps automation projects**
+
+---
+
+## 📂 Featured Repositories
+
+🔹 Explore my hands-on projects here: [github.com/DEEPAKMISAL01](https://github.com/DEEPAKMISAL01?tab=repositories)
+
