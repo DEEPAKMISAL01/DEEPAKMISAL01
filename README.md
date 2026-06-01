@@ -1,154 +1,75 @@
-# 👋 Hi, I'm Deepak Misal
-
-### AWS & DevOps Engineer | Cloud Enthusiast | Infrastructure Automation
+<h1 align="center">👋 Hello, I'm Deepak Misal</h1>
+<h3 align="center">DevOps Engineer | AWS Cloud Practitioner | Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEEPAKMISAL01&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DEEPAKMISAL01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔧 Skills & Technologies
 
-🎓 BCA Graduate with **9.02 CGPA**
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-orange?style=flat&logo=aws-lambda&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-☁️ Passionate about **AWS Cloud, DevOps, Kubernetes, and Infrastructure Automation**
+### ⚙️ DevOps Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-🔧 Skilled in designing and deploying scalable cloud-native applications using AWS and modern DevOps practices.
-
-📈 Focused on building production-grade CI/CD pipelines, Infrastructure as Code (IaC), containerized applications, and monitoring solutions.
-
-🌱 Currently expanding expertise in:
-
-* Kubernetes & GitOps
-* AWS Serverless Architecture
-* Platform Engineering
-* Cloud Security & DevSecOps
-
----
-
-## 🛠️ Technical Skills
-
-### Cloud Platforms
-
-* AWS (EC2, VPC, S3, IAM, Route53, RDS, Lambda, CloudFormation)
-
-### DevOps & Automation
-
-* Jenkins
-* GitHub Actions
-* Docker
-* Kubernetes
-* Helm
-* Terraform
-* Ansible
-
-### Version Control
-
-* Git
-* GitHub
-
-### Operating Systems
-
-* Linux (Ubuntu, Amazon Linux)
-
-### Scripting & Configuration
-
-* Bash
-* YAML
-* Groovy
-
-### Build Tools
-
-* Maven
+### 💻 Scripting & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
 
 ---
 
-## 🏆 Certifications
-
-✅ AWS Certified Cloud Practitioner
-
-*(Add future certifications here)*
-
-* AWS Solutions Architect Associate
-* Terraform Associate
-* Certified Kubernetes Application Developer (CKAD)
-
----
-
-## 🚀 Featured Projects
-
-### 1️⃣ AWS Three-Tier Architecture Deployment
-
-**Tech Stack:** AWS, Terraform, EC2, RDS, VPC, ALB
-
-* Designed and deployed a highly available 3-tier architecture on AWS.
-* Implemented Infrastructure as Code using Terraform.
-* Configured networking, security groups, and load balancing.
-* Automated provisioning for repeatable deployments.
-
----
-
-### 2️⃣ End-to-End CI/CD Pipeline with Jenkins
-
-**Tech Stack:** Jenkins, Docker, GitHub, Maven
-
-* Automated build, test, and deployment workflows.
-* Integrated GitHub webhooks for continuous delivery.
-* Containerized applications using Docker.
-
----
-
-### 3️⃣ Flipkart Clone DevSecOps Project
-
-**Tech Stack:** Jenkins, SonarQube, Trivy, Docker, Kubernetes, ArgoCD
-
-* Implemented complete DevSecOps workflow.
-* Integrated security scanning and GitOps deployment.
-* Automated deployment to Kubernetes cluster.
-
----
-
-### 4️⃣ AI DevOps Kubernetes Agent
-
-**Tech Stack:** Kubernetes, AWS, AI Integration
-
-* Built an AI-powered Kubernetes automation solution.
-* Automated cluster monitoring and operational tasks.
-* Demonstrated modern cloud-native architecture.
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAKMISAL01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAKMISAL01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAKMISAL01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAKMISAL01&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAKMISAL01&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAKMISAL01&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 🎯 Career Objective
+## 🏆 GitHub Achievements
 
-Seeking opportunities as a **Cloud Engineer, AWS Engineer, DevOps Engineer, or Site Reliability Engineer (SRE)** where I can contribute to scalable cloud infrastructure, automation, CI/CD, and cloud-native technologies.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [deepakmisal.dev@gmail.com](mailto:deepakmisal.dev@gmail.com)
-
-💼 LinkedIn: https://linkedin.com/in/deepakmisal
-
-🐙 GitHub: https://github.com/DEEPAKMISAL01
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DEEPAKMISAL01&theme=darkhub&no-bg=true&no-frame=true&margin-w=4" />
+</p>
 
 ---
 
-### ⭐ "Automate Everything. Build Once. Deploy Anywhere."
+## 📫 Contact Me
+
+- 📧 Email: [deepakmisal.dev@gmail.com](mailto:deepakmisal.dev@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/deepakmisal](https://linkedin.com/in/deepakmisal)
+
+---
+
+## 🚀 Current Focus
+
+- Designing cloud-native applications using **AWS services & Infrastructure as Code**
+- Building robust CI/CD pipelines with **GitHub Actions & Jenkins**
+- Deploying containerized workloads with **Kubernetes**
+- Exploring DevOps automation and contributing to **open-source projects**
+
+---
+
+## 📂 Featured Projects
+
+🔹 Visit my repositories: [github.com/DEEPAKMISAL01](https://github.com/DEEPAKMISAL01?tab=repositories) proide this look better and proficional 
