@@ -1,50 +1,93 @@
-# Hi 👋, I'm Deepak Misal
+<h1 align="center">Hi 👋, I'm Deepak Misal</h1>
 
-### AWS & DevOps Engineer | MCA Student | OCI DevOps Professional
+<h3 align="center">
+AWS & DevOps Engineer | MCA Student | OCI DevOps Professional
+</h3>
 
-🚀 Passionate about Cloud Computing, Infrastructure Automation, CI/CD Pipelines, and Kubernetes.
+<p align="center">
+Passionate about Cloud Computing, Infrastructure Automation, CI/CD Pipelines, and Kubernetes
+</p>
 
-🌐 Portfolio: https://deepakmisal.lovable.app
+<p align="center">
+  <a href="https://deepakmisal.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:deepakmisal.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/deepak-misal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-📍 Pune, Maharashtra, India
-
-📧 [deepakmisal.dev@gmail.com](mailto:deepakmisal.dev@gmail.com)
-
-💼 LinkedIn: https://linkedin.com/in/deepak-misal
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEEPAKMISAL01&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🎯 Career Objective
+## 🚀 About Me
 
-Aspiring AWS & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, Jenkins, and Linux. Passionate about building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines. Currently pursuing MCA and seeking opportunities to contribute to cloud-native and DevOps projects.
+* 🎓 BCA Graduate (CGPA: 8.06)
+* 🎓 Pursuing MCA
+* ☁️ AWS Cloud & DevOps Enthusiast
+* 🐧 Linux Administrator
+* 🔄 CI/CD Pipeline Builder
+* 🚀 Actively seeking AWS Cloud & DevOps opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-**Cloud:** AWS (EC2, S3, IAM, VPC, RDS, Route53, Lambda)
+### Cloud Technologies
 
-**DevOps:** Jenkins, Docker, Kubernetes, Terraform, Ansible, Helm
+* AWS (EC2, S3, IAM, VPC, RDS, Route53, Lambda)
 
-**Monitoring:** Prometheus, Grafana
+### DevOps Tools
 
-**Version Control:** Git, GitHub
+* Jenkins
+* Docker
+* Kubernetes
+* Terraform
+* Ansible
+* Helm
 
-**Build Tools:** Maven
+### Monitoring & Logging
 
-**OS:** Linux, Ubuntu
+* Prometheus
+* Grafana
 
-**Database:** MySQL
+### Version Control
 
-**Languages:** Bash, YAML, Groovy
+* Git
+* GitHub
+
+### Operating Systems
+
+* Linux
+* Ubuntu
+
+### Build Tools
+
+* Maven
+
+### Database
+
+* MySQL
+
+### Scripting
+
+* Bash
+* YAML
+* Groovy
 
 ---
 
 ## 🏆 Certifications
 
-✅ Oracle Cloud Infrastructure 2025 Certified DevOps Professional
-
-🎯 AWS Certification (In Progress)
+* Oracle Cloud Infrastructure 2025 Certified DevOps Professional
+* AWS Cloud & DevOps Training
+* Hands-on Experience with Cloud & Automation Projects
 
 ---
 
@@ -52,30 +95,63 @@ Aspiring AWS & DevOps Engineer with hands-on experience in AWS, Docker, Kubernet
 
 ### AWS Three-Tier Architecture
 
-* VPC, EC2, RDS, NGINX, Tomcat, MySQL
-* Secure and scalable production-style deployment
+Production-style deployment using:
+
+* VPC
+* EC2
+* RDS
+* NGINX
+* Tomcat
+* MySQL
 
 ### DevSecOps CI/CD Pipeline
 
-* Jenkins, Docker, SonarQube, Trivy, Kubernetes
-* Automated build, security scanning, and deployment
+Built using:
+
+* Jenkins
+* Docker
+* SonarQube
+* Trivy
+* Kubernetes
 
 ### AI Image Analyzer on AWS
 
-* Rekognition, Bedrock, Lambda, API Gateway
-* Serverless AI-powered image analysis platform
+Built using:
+
+* Amazon Rekognition
+* Amazon Bedrock
+* Lambda
+* API Gateway
 
 ### Infrastructure as Code
 
-* Terraform modules for AWS infrastructure provisioning
-* Reusable and production-ready architecture
+Provisioning AWS infrastructure using Terraform with reusable modules.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-🌐 Portfolio: https://deepakmisal.lovable.app
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAKMISAL01&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAKMISAL01&theme=tokyonight" width="48%" />
+</p>
 
-💼 LinkedIn: https://linkedin.com/in/deepak-misal
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAKMISAL01&layout=compact&theme=tokyonight" />
+</p>
 
-📧 Email: [deepakmisal.dev@gmail.com](mailto:deepakmisal.dev@gmail.com)
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **[deepakmisal.dev@gmail.com](mailto:deepakmisal.dev@gmail.com)**
+
+💼 LinkedIn: **https://linkedin.com/in/deepak-misal**
+
+🌐 Portfolio: **https://deepakmisal.lovable.app**
+
+📂 GitHub Repositories: **https://github.com/DEEPAKMISAL01?tab=repositories**
+
+---
+
+⭐ Thanks for visiting my profile!
